@@ -1,1 +1,1 @@
-# Logica-3---Buscaminas
+# Buscaminas
